@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace ObjectOrientedProgramming.Basics.Abstraction.AbstracClass
 {
-    class Cat : AbstracAnimal
+    class Dog : AbstractAnimal
     {
         public override string GetSound()
         {
-            return "meow meow";
+            return "gau gau";
         }
     }
 }

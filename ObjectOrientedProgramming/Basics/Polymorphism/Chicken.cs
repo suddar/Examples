@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ObjectOrientedProgramming.Basics.Polymorphism
 {
-    class Chiken:Animal
+    class Chicken:Animal
     {
         public override string GetSound()
         {

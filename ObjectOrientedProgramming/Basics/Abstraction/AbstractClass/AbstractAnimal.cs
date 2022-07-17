@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ObjectOrientedProgramming.Basics.Abstraction
 {
-    abstract class AbstracAnimal
+    public abstract class AbstractAnimal
     {
         public string AnimalSound { internal get; set; }
 
